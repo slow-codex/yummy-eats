@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/yummy-eats/static/css/main.1006d352.chunk.css",
+    "main.js": "/yummy-eats/static/js/main.c7c121ae.chunk.js",
+    "main.js.map": "/yummy-eats/static/js/main.c7c121ae.chunk.js.map",
+    "runtime-main.js": "/yummy-eats/static/js/runtime-main.20d96b03.js",
+    "runtime-main.js.map": "/yummy-eats/static/js/runtime-main.20d96b03.js.map",
+    "static/js/2.d8d5a5ae.chunk.js": "/yummy-eats/static/js/2.d8d5a5ae.chunk.js",
+    "static/js/2.d8d5a5ae.chunk.js.map": "/yummy-eats/static/js/2.d8d5a5ae.chunk.js.map",
+    "static/js/3.eac17761.chunk.js": "/yummy-eats/static/js/3.eac17761.chunk.js",
+    "static/js/3.eac17761.chunk.js.map": "/yummy-eats/static/js/3.eac17761.chunk.js.map",
+    "index.html": "/yummy-eats/index.html",
+    "static/css/main.1006d352.chunk.css.map": "/yummy-eats/static/css/main.1006d352.chunk.css.map",
+    "static/js/2.d8d5a5ae.chunk.js.LICENSE.txt": "/yummy-eats/static/js/2.d8d5a5ae.chunk.js.LICENSE.txt",
+    "static/media/allmeal.ad9d67df.jpg": "/yummy-eats/static/media/allmeal.ad9d67df.jpg",
+    "static/media/mealoftheday.3140a8f6.jpg": "/yummy-eats/static/media/mealoftheday.3140a8f6.jpg",
+    "static/media/product-1.79ae1d8c.jpg": "/yummy-eats/static/media/product-1.79ae1d8c.jpg",
+    "static/media/product-2.43de17b1.jpg": "/yummy-eats/static/media/product-2.43de17b1.jpg",
+    "static/media/product-3.97a9a3f5.jpg": "/yummy-eats/static/media/product-3.97a9a3f5.jpg",
+    "static/media/sweet-1.78f37735.jpg": "/yummy-eats/static/media/sweet-1.78f37735.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/yummy-eats/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/yummy-eats/static/media/sweet-3.badeecbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20d96b03.js",
+    "static/js/2.d8d5a5ae.chunk.js",
+    "static/css/main.1006d352.chunk.css",
+    "static/js/main.c7c121ae.chunk.js"
+  ]
+}
